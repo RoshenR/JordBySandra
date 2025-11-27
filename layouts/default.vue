@@ -16,7 +16,7 @@
     </main>
     <footer class="bg-charcoal text-sand py-8 mt-12">
       <div class="max-w-6xl mx-auto px-6 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
-        <p class="text-sm">© {{ new Date().getFullYear() }} Jord by Sandra. Tous droits réservés.</p>
+        <p class="text-sm">© {{ new Date().getFullYear() }} JordBySandra. Tous droits réservés.</p>
         <div class="flex items-center gap-4 text-sm">
           <NuxtLink to="/mentions-legales" class="hover:text-sand/80">Mentions légales</NuxtLink>
           <a href="mailto:contact@jordby.com" class="hover:text-sand/80">contact@jordby.com</a>
